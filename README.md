@@ -1,3 +1,6 @@
+TURMA 231-A
+INTEGRANTES: Erick verissimo, Guilherme napoleao, Gabriel Silva de Almeida, Miguel santos.
+
 Investidor, Mercado e Corretora:
 
 O programa começa pedindo ao usuário que insira um nome de usuário e senha. Se o usuário e senha correspondem a um investidor registrado, o programa cria uma instância do investidor, juntamente com suas carteiras e saldos iniciais.
